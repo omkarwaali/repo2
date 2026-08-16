@@ -25,7 +25,7 @@
         </dependency>
 <dependency>
     <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
+    <artifactId>cypress</artifactId>
     <version>7.9.0</version>
     <scope>test</scope>
     </dependencies>
