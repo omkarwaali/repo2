@@ -28,6 +28,12 @@
     <artifactId>testng</artifactId>
     <version>7.9.0</version>
     <scope>test</scope>
+<dependency>
+        <groupId>org.cypress</groupId>
+        <artifactId>cypress</artifactId>
+        <version>1.0.0</version>
+        <scope>test</scope>
+      </dependency>
     </dependencies>
 
     <build>
